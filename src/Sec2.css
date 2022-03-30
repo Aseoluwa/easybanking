@@ -1,0 +1,206 @@
+/** @format */
+
+@media (min-width: 320px) {
+  /* .sec2 { */
+  /* background-color: #fafafa; */
+  /* } */
+  /* .sec2 h1 {
+    padding-top: 30px;
+    padding-bottom: 40px;
+  }
+  .currencydiv {
+    background-color: rgb(240, 240, 240);
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+  .currencydiv p {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(145, 145, 145);
+  }
+  .currencydiv h3 {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 1%;
+    color: rgb(24, 24, 24);
+  }
+  .cur {
+    width: 100%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+  .pp {
+    padding-bottom: 30px;
+  }
+  .res {
+    margin-top: 40px;
+    background-color: rgb(240, 240, 240);
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+  .res p {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(145, 145, 145);
+  }
+  .res h1 {
+    padding-top: 30px;
+    padding-bottom: 40px;
+  }
+  .resimg {
+    width: 100%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+
+  .plain {
+    margin-top: 40px;
+    background-color: rgb(240, 240, 240);
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+  .plainimg {
+    width: 100%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+  .plain p {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(145, 145, 145);
+  }
+  .plain h3 {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 1%;
+    color: rgb(24, 24, 24);
+  }
+  .con {
+    margin-top: 40px;
+    margin-bottom: 80px;
+    background-color: rgb(240, 240, 240);
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+  .conimg {
+    width: 100%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+  .con p {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(145, 145, 145);
+  }
+  .con h3 {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 1%;
+    color: rgb(24, 24, 24);
+  }
+}
+@media (min-width: 768px) {
+  .sec2 h1 {
+    text-align: left;
+    padding-left: 10%;
+  }
+  .secdiv {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .currencydiv {
+    background-color: rgb(240, 240, 240);
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    width: 100px;
+  }
+  .currencydiv p {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(145, 145, 145);
+  }
+  .currencydiv h3 {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 1%;
+    color: rgb(24, 24, 24);
+  }
+  .cur {
+    width: 200%;
+    border: 0px solid;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+  } */
+}
+@media (min-width: 320px) {
+  .zz {
+    margin: 5% 10%;
+    background-color: rgb(233, 233, 233);
+    text-align: left;
+  }
+
+  .iimg {
+    width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  .sec2 h1 {
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 40px;
+  }
+  .secdiv11 {
+    display: flex;
+    flex-direction: row;
+  }
+  .zz {
+    margin: 10px;
+    padding: 0px;
+    background-color: rgb(233, 233, 233);
+    text-align: left;
+    flex: 10;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 50px;
+  }
+  .zz p {
+    padding-left: 5px;
+    padding-right: 2px;
+  }
+  .zz h3 {
+    padding-left: 5px;
+  }
+  /* .currencydiv {
+    flex: 1;
+  } */
+
+  .iimg {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+}

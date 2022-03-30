@@ -1,0 +1,85 @@
+/** @format */
+
+@media (min-width: 320px) {
+  .sec1 {
+    background-color: #f4f5f7;
+  }
+  .sec1 h2 {
+    font-size: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+  }
+  .sec1 p {
+    font-size: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #858585;
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+  .online {
+    padding-top: 20px;
+  }
+  .online h3 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .online p {
+    color: #949494;
+  }
+  .simple {
+    padding-top: 20px;
+  }
+  .simple h3 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .simple p {
+    color: #949494;
+  }
+  .fast {
+    padding-top: 20px;
+  }
+  .fast h3 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .fast p {
+    color: #949494;
+  }
+  .Api {
+    padding-top: 20px;
+  }
+  .Api h3 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .Api p {
+    color: #949494;
+    padding-bottom: 80px;
+  }
+}
+@media (min-width: 768px) {
+  .header {
+    text-align: left;
+    padding-left: 2%;
+  }
+  .header p {
+    padding-right: 40%;
+  }
+  .secdivall {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+  }
+  .secdivall h3 {
+    padding-left: 12%;
+  }
+  .iconimg {
+    padding-left: 11%;
+  }
+  .secdivall p {
+    padding-left: 12%;
+  }
+}

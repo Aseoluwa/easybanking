@@ -1,0 +1,41 @@
+/** @format */
+
+.Navg {
+  background-color: #f7f7f7;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.Btn {
+  background-image: radial-gradient(#30ce77, #2ec49f, #2bb9cf);
+  border: 1px solid;
+  border-color: #f3f3f3;
+  width: 120px;
+  height: 40px;
+  border-radius: 25px;
+  color: #ffffff;
+}
+.Btt {
+  font-size: 15px;
+}
+
+@media (min-width: 800px) {
+  .Btt {
+    padding-right: 220px;
+    font-size: 15px;
+  }
+
+  .Btndiv {
+    padding-right: 100px;
+  }
+  .Btn {
+    background-image: radial-gradient(#30ce77, #2ec49f, #2bb9cf);
+    border: 1px solid;
+    border-color: #f3f3f3;
+    width: 140px;
+    height: 40px;
+    border-radius: 25px;
+    color: #ffffff;
+    font-size: 15px;
+  }
+}
